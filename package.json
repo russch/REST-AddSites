@@ -1,0 +1,19 @@
+{
+	"name":"TabRest",
+	"version":"0.0.1",
+	"description":"Tableau Server REST API Demo",
+	"dependencies": {
+		"connect":"latest",
+		"request": "latest",
+		"xml-writer": "latest",
+		"pretty-data": "latest",
+        "xml2js": "latest",
+        "express": "latest"
+	},
+	"author": "Russell",
+	"repository": {
+	   "type": "git",
+	   "url": "https://github.com/russch/REST-AddSites"
+	 },
+	"main": "app.js"
+}
